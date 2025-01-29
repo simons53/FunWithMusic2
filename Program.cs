@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-namespace FunWithMusic
+namespace FunWithMusic2
 {
     class Program
     {
